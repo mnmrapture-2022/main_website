@@ -1634,6 +1634,7 @@
     overflow: hidden;
   }
   .lgx-gallery-single {
+    border: 5px solid transparent ;
     background: 0 0;
     float: left;
     width: 100%;
