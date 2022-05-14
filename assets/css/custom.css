@@ -125,6 +125,14 @@
   margin: 0;
   line-height: 4.5rem;
 }
+.lgx-banner-info .subtitle-2 {
+  font-family: Poppins, sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #efa506;
+  margin: 0;
+  line-height: 4.5rem;
+}
 .lgx-banner-info .title {
   margin: 0 0 2.6rem;
   font-family: Oswald, sans-serif;
